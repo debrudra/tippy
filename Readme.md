@@ -15,7 +15,7 @@ The following **required** functionality is complete:
 
 
 
-GIF created with [recordit](https://recordit.co/ZBSIk7StzX).
+GIF created with [recordit]http://g.recordit.co/ZBSIk7StzX.gif
 
 
 
